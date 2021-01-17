@@ -1,11 +1,10 @@
 //
-master sua doi
+//  RLMColor.swift
+//  AppToDo
+//
+//  Created by Nguyen Manh on 15/01/2021.
 //
 amumu
-da dc sua boi master
-ahihi
-fasfafas
-bete sua
 import Foundation
 import RealmSwift
 
