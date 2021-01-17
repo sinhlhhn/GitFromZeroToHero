@@ -1,8 +1,5 @@
 //
-//  RLMColor.swift
-//  AppToDo
-//
-//  Created by Nguyen Manh on 15/01/2021.
+bate cung sua
 //
 ahihi
 fasfafas
